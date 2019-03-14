@@ -18,7 +18,7 @@ end_phase = '2019028'
 # https://chart.cp.360.cn/kaijiang/slt/?lotId=120029&chartType=undefined&spanType=3&span=2007001_2019028&r=0.7504661856439394#roll_0'
 
 
-_START_DATE = '2007-05-01'
+_START_DATE = '2007-05-01'#大乐透从2007年5月才开始的
 _NOWTIME = time.strftime('%Y-%m-%d', time.localtime(time.time()))  #默认系统当前日期
 #https://chart.cp.360.cn/kaijiang/slt/?lotId=120029&chartType=undefined&spanType=2&span=2019-03-01_2019-03-14&r=0.2729831739188433#roll_132
 
